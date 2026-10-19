@@ -1,0 +1,24 @@
+codex-glass-vibecoding
+Copyright 2026 codex-glass-vibecoding contributors
+
+Independent Windows WPF / HLSL implementation.
+This project is not affiliated with or endorsed by OpenAI.
+
+Liquid glass design guidance and interaction parameters reference:
+  JUEMING-006/skill-liquid-glass
+  https://github.com/JUEMING-006/skill-liquid-glass
+  Kyant0/AndroidLiquidGlass (Backdrop)
+  https://github.com/Kyant0/AndroidLiquidGlass
+  Copyright Kyant0 and contributors; Apache License 2.0.
+
+Windows-specific adaptations include shared VisualBrush sampling, HLSL shaders,
+spring interaction, rounded shadowless window treatment and responsive charts.
+These are adaptations for WPF, not Android/Compose runtime components.
+
+Retained upstream notices are in LiquidGlass.NOTICE.
+The upstream license is retained in LiquidGlass.LICENSE.
+
+Learning and inspiration reference acknowledged by the project author:
+  GGBond2424648901/codex-glass
+  https://github.com/GGBond2424648901/codex-glass
+This is the author's first Vibe Coding project, primarily for learning.
